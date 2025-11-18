@@ -6,7 +6,7 @@
 
 ## Comandos
 
-- Para limpiar, instalar y ejecutar la aplicación sin pruebas:
+- Para limpiar, instalar y ejecutar la aplicación sin pruebas
 
   ```bash
   ./mvn clean install -DskipTests spring-boot:run
